@@ -1,0 +1,52 @@
+C:\Users\hp\source\repos\SplitWise\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\SplitWise\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\SplitWise\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.AssemblyInfo.cs
+C:\Users\hp\source\repos\SplitWise\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SplitWise\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.exe
+C:\Users\hp\source\repos\SplitWise\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.deps.json
+C:\Users\hp\source\repos\SplitWise\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.runtimeconfig.json
+C:\Users\hp\source\repos\SplitWise\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.runtimeconfig.dev.json
+C:\Users\hp\source\repos\SplitWise\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.dll
+C:\Users\hp\source\repos\SplitWise\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.pdb
+C:\Users\hp\source\repos\SplitWise\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.dll
+C:\Users\hp\source\repos\SplitWise\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.pdb
+C:\Users\hp\source\repos\SplitWise\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.genruntimeconfig.cache
+C:\Users\sathvika_admin\Documents\c# wpf\SplitWise\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.exe
+C:\Users\sathvika_admin\Documents\c# wpf\SplitWise\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.deps.json
+C:\Users\sathvika_admin\Documents\c# wpf\SplitWise\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.runtimeconfig.json
+C:\Users\sathvika_admin\Documents\c# wpf\SplitWise\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.runtimeconfig.dev.json
+C:\Users\sathvika_admin\Documents\c# wpf\SplitWise\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.dll
+C:\Users\sathvika_admin\Documents\c# wpf\SplitWise\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.pdb
+C:\Users\sathvika_admin\Documents\c# wpf\SplitWise\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.csproj.AssemblyReference.cache
+C:\Users\sathvika_admin\Documents\c# wpf\SplitWise\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.AssemblyInfoInputs.cache
+C:\Users\sathvika_admin\Documents\c# wpf\SplitWise\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.AssemblyInfo.cs
+C:\Users\sathvika_admin\Documents\c# wpf\SplitWise\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.csproj.CoreCompileInputs.cache
+C:\Users\sathvika_admin\Documents\c# wpf\SplitWise\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.dll
+C:\Users\sathvika_admin\Documents\c# wpf\SplitWise\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.pdb
+C:\Users\sathvika_admin\Documents\c# wpf\SplitWise\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.genruntimeconfig.cache
+C:\Users\sathvika_admin\source\repos\SplitWise\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.exe
+C:\Users\sathvika_admin\source\repos\SplitWise\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.deps.json
+C:\Users\sathvika_admin\source\repos\SplitWise\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.runtimeconfig.json
+C:\Users\sathvika_admin\source\repos\SplitWise\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.runtimeconfig.dev.json
+C:\Users\sathvika_admin\source\repos\SplitWise\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.dll
+C:\Users\sathvika_admin\source\repos\SplitWise\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.pdb
+C:\Users\sathvika_admin\source\repos\SplitWise\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.csproj.AssemblyReference.cache
+C:\Users\sathvika_admin\source\repos\SplitWise\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.AssemblyInfoInputs.cache
+C:\Users\sathvika_admin\source\repos\SplitWise\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.AssemblyInfo.cs
+C:\Users\sathvika_admin\source\repos\SplitWise\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.csproj.CoreCompileInputs.cache
+C:\Users\sathvika_admin\source\repos\SplitWise\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.dll
+C:\Users\sathvika_admin\source\repos\SplitWise\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.pdb
+C:\Users\sathvika_admin\source\repos\SplitWise\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.genruntimeconfig.cache
+C:\Users\sathvika_admin\source\repos\SplitWise_c#\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.exe
+C:\Users\sathvika_admin\source\repos\SplitWise_c#\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.deps.json
+C:\Users\sathvika_admin\source\repos\SplitWise_c#\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.runtimeconfig.json
+C:\Users\sathvika_admin\source\repos\SplitWise_c#\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.runtimeconfig.dev.json
+C:\Users\sathvika_admin\source\repos\SplitWise_c#\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.dll
+C:\Users\sathvika_admin\source\repos\SplitWise_c#\SplitWise\bin\Debug\netcoreapp3.1\SplitWise.pdb
+C:\Users\sathvika_admin\source\repos\SplitWise_c#\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.csproj.AssemblyReference.cache
+C:\Users\sathvika_admin\source\repos\SplitWise_c#\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.AssemblyInfoInputs.cache
+C:\Users\sathvika_admin\source\repos\SplitWise_c#\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.AssemblyInfo.cs
+C:\Users\sathvika_admin\source\repos\SplitWise_c#\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.csproj.CoreCompileInputs.cache
+C:\Users\sathvika_admin\source\repos\SplitWise_c#\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.dll
+C:\Users\sathvika_admin\source\repos\SplitWise_c#\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.pdb
+C:\Users\sathvika_admin\source\repos\SplitWise_c#\SplitWise\obj\Debug\netcoreapp3.1\SplitWise.genruntimeconfig.cache
